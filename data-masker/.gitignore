@@ -1,0 +1,6 @@
+*.exe
+*.test
+*.out
+data-masker
+data-masker.exe
+mask_config.json
